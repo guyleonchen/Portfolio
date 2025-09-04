@@ -1,100 +1,44 @@
-Linux Fundamentals 1 & 2
+Linux Fundamentals 1–3
+Linux Fundamentals 1
+Basic CLI Commands
 
-Description:
-This repository contains exercises and examples from Linux Fundamentals 1 and 2, covering basic to intermediate command-line skills. Labs include file creation and manipulation, searching with grep, user management, file permissions, log analysis, and efficient file operations.
+Skills Learned: Navigating the Linux CLI, viewing file contents, listing directories
+Key Commands/Concepts: pwd, ls, cd, cat
+Screenshot:
 
-Skills Learned
-Fundamentals 1
+Linux File Creation Practice
 
-Navigating the Linux CLI (cd, pwd, ls)
+Skills Learned: Creating files with and without content, appending text
+Key Commands/Concepts: touch filename, echo "text" > filename, echo "text" >> filename
+Screenshot:
 
-Creating and editing files (touch, echo)
+Using grep with Absolute Paths
 
-Appending and overwriting text (>, >>)
+Skills Learned: Searching for text patterns efficiently
+Key Commands/Concepts: grep "text" /absolute/path/to/file
+Screenshot:
 
-Viewing file contents (cat)
+Linux Fundamentals 2
+File Permissions
 
-Searching for text patterns with grep
+Skills Learned: Understanding and reading Linux file permissions
+Key Commands/Concepts: ls -l, permission breakdown (owner, group, others), file types (-, d)
+Screenshot:
 
-Using absolute paths for efficient file access
+Switching Users with su
 
-Fundamentals 2
+Skills Learned: Safely elevating privileges and verifying current user
+Key Commands/Concepts: su username, whoami
+Screenshot:
 
-Reading and understanding file permissions (ls -l, chmod, chown)
+Reading System Logs
 
-Switching users safely with su and verifying identity (whoami)
-
-Reading system and authentication logs (/var/log/syslog, /var/log/auth.log)
-
-Creating, moving, deleting, and listing files efficiently (touch, echo, mv, rm, ls -1)
-
-Key Commands & Examples
-Basic CLI (Fundamentals 1)
-
-pwd → print current directory
-
-ls → list files and folders
-
-cd folder4 → change directory
-
-cat folder4/note.txt → view file contents
-
-touch GuyDontReadMe.txt → create an empty file
-
-echo "Hi GitHub" > GuyReadMe → create a file with text
-
-echo "Another line" >> GuyReadMe → append text
-
-grep "THM" /home/tryhackme/access.log → search for text in a file
-
-File Permissions & User Management (Fundamentals 2)
-
-ls -l → view detailed permissions
-
-Example: -rwxr-xr--
-
-- → file type
-
-rwx → owner permissions
-
-r-x → group permissions
-
-r-- → others
-
-su username → switch users temporarily
-
-whoami → verify current user
-
-sudo cat /var/log/auth.log → read logs requiring root privileges
+Skills Learned: Troubleshooting and monitoring using logs
+Key Commands/Concepts: cat /var/log/syslog, sudo cat /var/log/auth.log
+Screenshot:
 
 File Management Recap
 
-touch filename → create empty file
-
-echo "text" > filename → create file with text
-
-mv source destination → move file
-
-rm filename → delete file
-
-ls -1 folder1 folder2 → list multiple folders clearly
-
-Outcomes
-
-Successfully navigated the Linux filesystem and created, edited, and appended files.
-
-Efficiently searched for text using grep and absolute paths.
-
-Understood and interpreted file permissions and user privileges.
-
-Safely switched users and analyzed system logs for troubleshooting and monitoring.
-
-Managed files and directories using standard Linux commands.
-
-Repository Structure
-
-Linux-Fundamentals-1/ – Basic CLI, file creation, grep usage
-
-Linux-Fundamentals-2/ – File permissions, user management, log reading, file operations
-
-images/ – Screenshots demonstrating terminal commands and outputs
+Skills Learned: Creating, moving, deleting, and listing files efficiently
+Key Commands/Concepts: touch, echo, mv, rm, ls -1 folder1 folder2
+Screenshot:

@@ -17,7 +17,8 @@ This lab focused on understanding and configuring User Account Control (UAC), a 
 Successfully configured UAC to balance security and usability, ensuring that system-level changes require explicit user consent.  
 
 **Artifacts:**  
-![Managing local user accounts](https://github.com/guyleonchen/Portfolio/blob/main/TryHackme/Windows%20Fundamentals/Microsoft%20Fundamentals%201/images/Managing%20local%20user%20accounts.png?raw=true)
+
+
 
 
 

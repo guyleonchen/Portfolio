@@ -83,6 +83,8 @@ This lab focused on using the `grep` command to search for specific text pattern
 Successfully located specific text in files using `grep` and absolute paths, demonstrating efficient file searching and text pattern recognition on the Linux command line.  
 
 **Artifacts:**  
-- Screenshots of terminal output stored in `images/` folder
+![Managing local user accounts](https://github.com/guyleonchen/Portfolio/blob/main/TryHackme/Windows%20Fundamentals/Microsoft%20Fundamentals%201/images/Managing%20local%20user%20accounts.png?raw=true)
+
+
 
 

@@ -22,5 +22,6 @@ Successfully documented and performed foundational Windows security tasks, inclu
   - `Password-Management.md` – Changing passwords for users  
   - `UAC.md` – Understanding and using User Account Control  
 - Screenshots: 
-https://imgur.com/a/CiPneZX
+
+
 

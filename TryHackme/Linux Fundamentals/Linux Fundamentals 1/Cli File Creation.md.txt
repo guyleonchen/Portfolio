@@ -1,0 +1,27 @@
+## Linux File Creation Practice Linux Fundamentals 1
+
+**Description:**  
+This lab focused on creating files in Linux using `echo` to add content and `touch` to create empty files. It demonstrated basic file creation and text manipulation from the command line.  
+
+**Skills Learned:**  
+- Creating files with content using the `echo` command  
+- Creating empty files using the `touch` command  
+- Understanding how to append text to existing files using `>>`  
+- Practicing basic command-line file management  
+
+**Key Commands/Concepts:**  
+- `echo "text" > filename` – creates a file with the specified text  
+- `touch filename` – creates an empty file  
+- `>>` – append text to an existing file  
+
+**Examples from Lab:**  
+- `echo "Hi GitHub, Guy here showing off my files" > GuyReadMe`  
+  - Creates a file called `GuyReadMe` containing the text  
+- `touch "GuyDon'tReadMe.txt"`  
+  - Creates an empty file called `GuyDon'tReadMe.txt`  
+
+**Outcome:**  
+Successfully created files with and without content, and demonstrated the ability to append text to existing files using command-line tools.  
+
+**Artifacts:**  
+- Screenshots or terminal output stored in `images/` folder (if applicable)  

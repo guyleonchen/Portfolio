@@ -1,0 +1,23 @@
+## System Configuration (msconfig) Windows Fundamentals 2 
+
+**Description:**  
+This lab focused on using Windows System Configuration (`msconfig`) to control startup programs, services, and boot settings. The exercises emphasized troubleshooting startup issues and managing system performance.  
+
+**Skills Learned:**  
+- Navigating `msconfig` and understanding each tab  
+- Controlling startup behavior and boot modes  
+- Managing services and identifying critical system functions  
+- Using built-in tools to troubleshoot system issues  
+
+**Key Commands/Concepts:**  
+- **General Tab** – choose Normal, Diagnostic, or Selective startup  
+- **Boot Tab** – modify boot options, including Safe Mode, Safe Mode with Networking, Safe Mode with Command Prompt, No GUI Boot, Active Directory Repair; adjust timeout and default OS  
+- **Services Tab** – view, enable, or disable Windows services (e.g., DHCP Client for network connectivity)  
+- **Startup Tab** – control programs that launch at startup (via Task Manager in Windows 10/11)  
+- **Tools Tab** – access built-in system tools like Event Viewer, System Information, and Windows Troubleshooter  
+
+**Outcome:**  
+Successfully configured startup settings, boot options, and services to troubleshoot system issues and optimize Windows performance.  
+
+**Artifacts:**  
+- Notes and screenshots stored in `images/` folder  

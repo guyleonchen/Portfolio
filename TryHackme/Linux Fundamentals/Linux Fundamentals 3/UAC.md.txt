@@ -1,0 +1,18 @@
+# User Account Control (UAC)
+
+## What is UAC?
+
+User Account Control (UAC) is a Windows security feature that **prevents unauthorized changes** to your computer.  
+It prompts for approval when an application tries to make system-level changes.
+
+## How to Use UAC
+
+1. Open **Control Panel > User Accounts > Change User Account Control settings**.
+2. Adjust the slider to choose the level of notifications.
+3. Click **OK** to save settings.
+
+## Skills Demonstrated
+
+- Understanding of Windows security features  
+- Ability to configure UAC settings  
+- Awareness of security prompts and administrative approval

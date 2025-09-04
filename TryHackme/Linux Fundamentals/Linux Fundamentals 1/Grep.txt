@@ -1,0 +1,25 @@
+## Using `grep` with Absolute Paths Linux Fundamentals 1
+
+**Description:**  
+This lab focused on using the `grep` command to search for specific text patterns in files using absolute paths. It demonstrates how to efficiently locate information without navigating through directories manually.  
+
+**Skills Learned:**  
+- Searching for text patterns in files with `grep`  
+- Using absolute file paths to target files directly  
+- Understanding how to filter outputs for efficient data retrieval  
+
+**Key Commands/Concepts:**  
+- `grep "text" /absolute/path/to/file` – search for a string in a specific file  
+- Absolute path usage avoids the need to `cd` into directories before searching  
+
+**Examples from Lab:**  
+- `grep "THM" /home/tryhackme/access.log`  
+  - Searches the file `access.log` for the string `"THM"` using the absolute path  
+
+**Outcome:**  
+Successfully located specific text in a file using `grep` and absolute paths, demonstrating efficient file searching and text pattern recognition on the Linux command line.  
+
+**Artifacts:**  
+- Screenshots of terminal output stored in `images/` folder:  
+  ![Grep Example 1](images/grep-example1.png)  
+  

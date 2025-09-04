@@ -1,0 +1,20 @@
+## Managing local user accounts Windows Fundamentals 1
+
+
+**Description:**  
+This lab introduced the concept of user accounts in Windows and demonstrated how to add, manage, and differentiate between Administrator and Standard User accounts.  
+
+**Skills Learned:**  
+- Understanding of Windows user account types  
+- Ability to add and manage users locally  
+- Basic system administration skills  
+
+**Key Commands/Concepts:**  
+- **Administrator account** – full access to system settings and other users  
+- **Standard User account** – limited access, can manage personal settings only  
+- **Settings > Accounts > Family & other users** – manage and create user accounts  
+
+**Outcome:**  
+Successfully created and managed user accounts while learning the security differences between account types.  
+
+**Artifacts:** 

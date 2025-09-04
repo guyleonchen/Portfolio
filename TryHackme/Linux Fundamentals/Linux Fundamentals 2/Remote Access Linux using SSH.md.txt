@@ -1,0 +1,21 @@
+## Remote Access Linux using SSH Linux Fundamentals 2
+
+**Description:**  
+This lab covered using SSH to remotely access a Linux machine via the command line. It included connecting to the server, verifying host authenticity, entering credentials, and successfully logging in.  
+
+**Skills Learned:**  
+- Using SSH for remote access  
+- Understanding host authenticity checks  
+- Logging into a remote Linux machine  
+
+**Key Commands/Concepts:**  
+- `ssh tryhackme@10.201.73.167` – Connects to the remote machine as the user `tryhackme`  
+- Host authenticity check – Confirms the server is trusted before connecting  
+- Password prompt – Authenticates the user for secure login  
+
+**Outcome:**  
+Successfully connected to the remote Ubuntu 20.04 machine, verified the host key, and gained command-line access.  
+
+**Artifacts:**  
+- Screenshot: 
+-

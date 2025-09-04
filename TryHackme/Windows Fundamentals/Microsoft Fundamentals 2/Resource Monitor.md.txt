@@ -1,0 +1,23 @@
+## Resource Monitor Windows Fundamentals 2
+
+**Description:**  
+This lab focused on using Windows Resource Monitor to observe real-time system resource usage, including CPU, memory, disk, and network. The exercises demonstrated how to identify resource-intensive processes and diagnose potential performance issues.  
+
+**Skills Learned:**  
+- Monitoring system performance in real-time  
+- Identifying resource-intensive processes  
+- Understanding CPU, memory, disk, and network utilization  
+- Using Resource Monitor to diagnose performance or network issues  
+
+**Key Commands/Concepts:**  
+- **CPU tab** – shows CPU usage per process and overall utilization; threads used by each process (e.g., `searchui.exe` using most threads)  
+- **Memory tab** – displays total, used, and available memory; charts track memory usage over time  
+- **Disk tab** – shows disk activity per process and overall throughput; identify high disk usage  
+- **Network tab** – monitors network activity per process (sent/received bits/sec); example: 3300 bits/sec sent, 4800 bits/sec received  
+
+**Outcome:**  
+Successfully monitored real-time system resources, identified active processes consuming CPU, memory, disk, and network resources, and evaluated system performance using Resource Monitor.  
+
+**Artifacts:**  
+- Notes and screenshots stored in `images/` folder  
+

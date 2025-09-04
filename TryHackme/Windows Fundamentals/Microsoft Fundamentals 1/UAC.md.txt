@@ -1,0 +1,20 @@
+## User Account Control (UAC) Windows Fundamentals 1
+
+
+**Description:**  
+This lab focused on understanding and configuring User Account Control (UAC), a Windows security feature that prevents unauthorized changes by requiring administrative approval.  
+
+**Skills Learned:**  
+- Understanding of Windows security features  
+- Ability to configure UAC settings  
+- Awareness of security prompts and administrative approval  
+
+**Key Commands/Concepts:**  
+- **Control Panel > User Accounts > Change User Account Control settings** – access and adjust UAC  
+- **Notification slider** – choose how often UAC prompts for confirmation  
+
+**Outcome:**  
+Successfully configured UAC to balance security and usability, ensuring that system-level changes require explicit user consent.  
+
+**Artifacts:**  
+- Screenshot(s): 

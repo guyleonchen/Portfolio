@@ -1,0 +1,37 @@
+# Basic CLI Commands Linux Fundamentals 1
+
+This repository contains hands-on exercises and notes for **Linux Fundamentals 1**, providing foundational skills in navigating the Linux command line, managing files and directories, and understanding basic system operations.  
+
+## Repository Structure
+
+- **Level-1-Basics/** – Markdown files with step-by-step notes for Level 1 exercises:
+  - `Basic-CLI.md` – using basic Linux commands  
+  - `User-Accounts.md` – managing users and permissions  
+- **images/** – Screenshots demonstrating tasks  
+
+---
+
+## Basic CLI Example
+
+**Description:**  
+This lab demonstrated the use of basic Linux commands to navigate the filesystem, view file contents, and manage directories.  
+
+**Skills Learned:**  
+- Navigating directories using `cd` and `pwd`  
+- Listing files and directories using `ls`  
+- Displaying file contents using `cat`  
+- Understanding basic command-line workflow  
+
+**Key Commands/Concepts:**  
+- `ls` – list files and directories  
+- `ls folder4` – check contents of a specific folder  
+- `cat folder4/note.txt` – display the contents of `note.txt`  
+- `cd folder4` – change into a directory  
+- `pwd` – print the current working directory  
+
+**Outcome:**  
+Successfully navigated the Linux filesystem and read file contents using command-line tools.  
+
+**Artifacts:**  
+- Screenshot:  
+  ![Basic CLI](images/basic-CLI.png)

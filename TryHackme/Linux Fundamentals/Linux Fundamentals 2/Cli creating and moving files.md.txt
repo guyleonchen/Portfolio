@@ -1,0 +1,51 @@
+## CLI Creating and Moving Files – Linux Fundamentals 2
+
+**Description:**  
+This lab demonstrates basic Linux CLI skills: creating files, moving them between folders, and deleting files. It emphasizes foundational file system management tasks using command-line operations in Linux.  
+
+**Skills Learned:**  
+- Creating directories (mkdir)  
+- Creating empty files (touch)  
+- Moving files between folders (mv)  
+- Deleting files (rm)  
+- Navigating directories (cd, pwd)  
+- Using ~ to reference the home directory  
+
+**Steps Taken:**  
+1. Create Folders  
+mkdir ~/github/1  
+mkdir ~/github/2  
+Created two folders, 1 and 2, in the home github directory  
+
+2. Create Files  
+a) Empty File  
+touch deleteme.txt  
+Created an empty file in the current folder  
+Verified with: ls -1  
+
+b) Another Empty File  
+touch moveme.txt  
+Created another empty file  
+Verified with: ls -1  
+
+3. Move Files Between Folders  
+mv ~/github/1/moveme.txt ~/github/2/  
+Moved moveme.txt from folder 1 to folder 2  
+Verified with: ls -1 ~/github/2  
+
+4. Move Files Back  
+mv ~/github/2/moveme.txt ~/github/1/  
+Moved the file back to folder 1  
+Verified with: ls -1 ~/github/1  
+
+5. Delete Files  
+rm ~/github/1/deleteme.txt  
+Deleted the empty file deleteme.txt  
+Verified with: ls -1 ~/github/1  
+
+**Outcome:**  
+Successfully practiced creating directories, managing files, moving them between folders, and deleting files using Linux command-line tools.  
+
+**Artifacts:**  
+- Terminal output screenshots stored in images/ folder  
+  ![CLI File Management Example](images/linux-cli-file-management.png)

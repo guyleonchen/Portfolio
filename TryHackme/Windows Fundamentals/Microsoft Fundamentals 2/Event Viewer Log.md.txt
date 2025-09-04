@@ -1,0 +1,25 @@
+## Windows Fundamentals 2 Event Viewer
+
+**Description:**  
+This lab focused on using the Windows Event Viewer to monitor, investigate, and analyze system, security, and application logs. The exercise demonstrated how to identify issues, track events, and filter logs for efficient troubleshooting.  
+
+**Skills Learned:**  
+- Navigating the Event Viewer interface  
+- Differentiating between critical, error, warning, and informational events  
+- Reading Event IDs and sources to diagnose or track system behavior  
+- Understanding how Windows logs events for monitoring and troubleshooting  
+
+**Key Commands/Concepts:**  
+- **Event types:**  
+  - Critical – severe problems requiring immediate attention  
+  - Error – issues affecting system functionality  
+  - Warning – potential problems needing investigation  
+  - Information – normal system events for tracking activity  
+- **Filter logs** – search by type, source, or Event ID  
+- **Example:** Event ID 47 – Time Service warning (possible system time synchronization issue)  
+
+**Outcome:**  
+Successfully navigated and analyzed logs in the Event Viewer to identify system events, interpret warnings/errors, and apply filtering techniques for troubleshooting.  
+
+**Artifacts:**  
+- Notes and screenshots stored in `images/` folder  

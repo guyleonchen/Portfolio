@@ -1,0 +1,28 @@
+## Checking Folder Contents  Linux Fundamentals 2
+
+**Description:**  
+This lab focused on listing the contents of multiple folders at once using absolute paths. It demonstrated how to quickly inspect files across directories without navigating into each folder.  
+
+**Skills Learned:**  
+- Listing contents of multiple folders at once  
+- Comparing files between directories efficiently  
+- Using absolute paths (`~` for home directory)  
+- Understanding command syntax and spacing  
+- Preparing clear, documented lab steps for GitHub  
+
+**Key Commands/Concepts:**  
+- `ls -1 ~/github/1 ~/github/2` – list all files in both folders, one per line  
+
+**Examples from Lab:**  
+```bash
+ls -1 ~/github/1 ~/github/2
+
+
+**Outcome:**  
+Successfully listed and compared the contents of multiple folders using absolute paths, allowing for efficient inspection of files without changing directories. Demonstrated understanding of using Linux CLI commands for managing and navigating files. 
+
+**Artifacts:**  
+- Screenshots of terminal output stored in `images/` folder:  
+  
+  
+

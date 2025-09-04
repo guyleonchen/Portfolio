@@ -1,0 +1,24 @@
+# User Accounts in Windows
+
+## What are User Accounts?
+
+User accounts allow multiple people to use the same computer with their own settings and files.  
+There are different types of accounts:
+- **Administrator** – Full access to system settings and other users.
+- **Standard User** – Can use programs and change personal settings but not system-wide settings.
+
+## Steps to Manage Users
+
+1. Open **Settings > Accounts > Family & other users**.
+2. Click **Add someone else to this PC**.
+3. Follow prompts to add a new user.
+4. You can see all users and groups in this section.
+5. Administrators can change passwords and manage accounts.
+
+## Skills Demonstrated
+
+- Understanding of Windows user account types  
+- Ability to add and manage users locally  
+- Basic system administration skills
+
+![Add User Screenshot](../images/add-user.png)

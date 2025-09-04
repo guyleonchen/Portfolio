@@ -1,4 +1,3 @@
-Linux Fundamentals 1–3
 Linux Fundamentals 1
 Basic CLI Commands
 
@@ -19,6 +18,7 @@ Key Commands/Concepts: grep "text" /absolute/path/to/file
 Screenshot:
 
 Linux Fundamentals 2
+
 File Permissions
 
 Skills Learned: Understanding and reading Linux file permissions
